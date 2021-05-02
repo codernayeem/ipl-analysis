@@ -1,0 +1,9 @@
+.vscode
+
+__pycache__/
+.py
+.python
+.python-version
+
+.ipynb_checkpoints/
+data/
